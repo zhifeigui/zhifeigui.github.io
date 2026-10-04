@@ -20,10 +20,19 @@ short_bio: >-
     I am a Ph.D. student in Physics at Dartmouth College.
   </p>
   <p>
-    My research lives at the intersection of theoretical and computational plasma physics, with a particular fascination for nonlinear phenomena inside turbulent plasmas. I am drawn to questions where mathematical elegance meets physical reality where we can actually compute, visualize, and understand.
+    My research lives at the intersection of theoretical and computational plasma physics, with a particular fascination for nonlinear phenomena inside turbulent plasmas. I am drawn to questions where mathematical elegance meets physical reality — where we can actually compute, visualize, and understand.
   </p>
+  <p>
+    I grew up in Chongqing, a city of rolling hills, drifting fog, and warm, vivid spirit. Hanover has offered me something quite different: quiet atmosphere and long stretches of solitude that let my thoughts settle. Both the warmth and the calm are parts of how I do physics.
+  </p>
+  <blockquote class="border-left pl-3 mt-4 mb-3">
+    <p class="font-italic mb-2">
+      &ldquo;Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.&rdquo;
+    </p>
+    <footer class="blockquote-footer">Richard Feynman</footer>
+  </blockquote>
 
-portrait_url: /images/gzf_profile.jpg
+portrait_url: /images/Zhifei_Gui_Profile_Dartmouth.jpg
 
 education:
 - name: Dartmouth College
